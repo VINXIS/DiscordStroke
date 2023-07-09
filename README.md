@@ -11,7 +11,7 @@ git clone https://github.com/VINXIS/Stroke-Avoidance.git
 ```
 cargo build
 ```
-3. Run the bot whenever testing:
+3. Create a `.env` file using `.env.example` as a template, and run the bot:
 ```
 cargo run
 ```
